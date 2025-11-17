@@ -11,7 +11,7 @@ body {
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
     margin-bottom: 20px;
     color: #333;
 }
@@ -121,3 +121,4 @@ button:hover {
 a[href="tambah.php"] {
     float: right;
 }
+

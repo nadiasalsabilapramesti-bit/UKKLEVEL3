@@ -115,4 +115,9 @@ button:hover {
 .nut {
     justify-content: center;
     display: flex;
+
+}
+
+a[href="tambah.php"] {
+    float: right;
 }
